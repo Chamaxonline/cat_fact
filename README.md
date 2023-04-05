@@ -6,18 +6,24 @@ API is having one controller with only one endpoint. Controller calls the client
 
 ## Steps to Run in local
 
-### First clone the solution in your local machine
+###  + First clone the solution in your local machine
 
-### Run the backend without Visual Studio:  
-        go to the src => backend => WebAPI  and open Powershell and type "dotnet run" and hit Enter button. Then the backend solution will run automatically. You can check it by browser with accessing below url
-https://localhost:5001/swagger/index.html
-Run backend from Visual Studio : go to the src => backend  folder and open the "CatFact" solution from visual studio. then run the solution.After the correct run it will automatically open the below url  
-https://localhost:5001/swagger/index.html
+###  + Run the backend without Visual Studio:  
+     Go to the src => backend => WebAPI  and open Powershell and type "dotnet run" and hit Enter button. 
+	Then the backend solution will run automatically. You can check it by browser with accessing below url
+		
+	https://localhost:5001/swagger/index.html
 
-### Run the froendend: go to the 
-         src => froentend=> catlover  and open Powershell and type "npm install" and hit Enter button. Then it will install all the node modules. After finishing that step run the below command 
-"npm run dev"
-then bwowse the below url
-http://localhost:3000/
-then you can access the Cats facts. Click he green color button to get new facts
+### + Run backend from Visual Studio : 
+     Go to the src => backend  folder and open the "CatFact" solution from visual studio. then run the solution.
+	 After the correct run it will automatically open the below url.
+	 
+	https://localhost:5001/swagger/index.html
+
+### + Run the froendend: 
+	Go to the src => froentend=> catlover  and open Powershell and type "npm install" and hit Enter button. 
+	Then it will install all the node modules. After finishing that step run the below command 
+		"npm run dev"  then browse the below url
+	http://localhost:3000/
+	then you can access the Cats facts. Click he green color button to get new facts.
 
