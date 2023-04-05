@@ -8,8 +8,8 @@ API is having one controller with only one endpoint. Controller calls the client
 
 ### First clone the solution in your local machine
 
-### Run the backend without Visual Studio: go to the 
-         src => backend => WebAPI  and open Powershell and type "dotnet run" and hit Enter button. Then the backend solution will run automatically. You can check it by browser with accessing below url
+### Run the backend without Visual Studio:  
+        go to the src => backend => WebAPI  and open Powershell and type "dotnet run" and hit Enter button. Then the backend solution will run automatically. You can check it by browser with accessing below url
 https://localhost:5001/swagger/index.html
 Run backend from Visual Studio : go to the src => backend  folder and open the "CatFact" solution from visual studio. then run the solution.After the correct run it will automatically open the below url  
 https://localhost:5001/swagger/index.html
