@@ -4,7 +4,9 @@ This solution contains Dotnet Core Web API and Next Js frontend end application.
 API solution has two main layers Web API & class library.
 API is having one controller with only one endpoint. Controller calls the client service to get real-time data from third-party API.
 
-## clone the solution in your local
+## Steps to Run in local
+
+### First clone the solution in your local machine
 
 ### Run the backend without Visual Studio: go to the 
          src => backend => WebAPI  and open Powershell and type "dotnet run" and hit Enter button. Then the backend solution will run automatically. You can check it by browser with accessing below url
