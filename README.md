@@ -1,5 +1,5 @@
 # cat_fact
-This solution contains Dotnet Core API and Next Js frontend end application. 
+This solution contains Dotnet Core Web API and Next Js frontend end application. 
 ## Dotnet Core API 
 API solution has two main layers Web API & class library.
 API is having one controller with only one endpoint. Controller calls the client service to get real-time data from third-party API.
